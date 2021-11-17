@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Cau1a.cs" />
+    <Compile Remove="Cau1b.cs" />
+    <Compile Remove="Cau2.cs" />
+    <Compile Remove="Cau3.cs" />
+    <Compile Remove="Cau4.cs" />
+    <Compile Remove="cau5.cs" />
+    <Compile Remove="Cau6.cs" />
+    <Compile Remove="Cau7.cs" />
+    <Compile Remove="Cau8.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Cau1a.cs" />
+    <None Include="Cau1b.cs" />
+    <None Include="Cau2.cs" />
+    <None Include="Cau3.cs" />
+    <None Include="Cau4.cs" />
+    <None Include="cau5.cs" />
+    <None Include="Cau6.cs" />
+    <None Include="Cau7.cs" />
+    <None Include="Cau8.cs" />
+  </ItemGroup>
+
+</Project>
