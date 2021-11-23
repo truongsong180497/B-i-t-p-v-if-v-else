@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Bai1b.cs" />
+    <Compile Remove="Bai1c.cs" />
+    <Compile Remove="Bai3.cs" />
+    <Compile Remove="Bai4.cs" />
+    <Compile Remove="Bai5.cs" />
+    <Compile Remove="Bai6.cs" />
+    <Compile Remove="Bai7.cs" />
+    <Compile Remove="Bai8.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Bai1b.cs" />
+    <None Include="Bai1c.cs" />
+    <None Include="Bai3.cs" />
+    <None Include="Bai4.cs" />
+    <None Include="Bai5.cs" />
+    <None Include="Bai6.cs" />
+    <None Include="Bai7.cs" />
+    <None Include="Bai8.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,14 @@
+D:\Baitaplenhlap\Baitaplenhlap\bin\Debug\netcoreapp3.1\Baitaplenhlap.exe
+D:\Baitaplenhlap\Baitaplenhlap\bin\Debug\netcoreapp3.1\Baitaplenhlap.deps.json
+D:\Baitaplenhlap\Baitaplenhlap\bin\Debug\netcoreapp3.1\Baitaplenhlap.runtimeconfig.json
+D:\Baitaplenhlap\Baitaplenhlap\bin\Debug\netcoreapp3.1\Baitaplenhlap.runtimeconfig.dev.json
+D:\Baitaplenhlap\Baitaplenhlap\bin\Debug\netcoreapp3.1\Baitaplenhlap.dll
+D:\Baitaplenhlap\Baitaplenhlap\bin\Debug\netcoreapp3.1\Baitaplenhlap.pdb
+D:\Baitaplenhlap\Baitaplenhlap\obj\Debug\netcoreapp3.1\Baitaplenhlap.csproj.AssemblyReference.cache
+D:\Baitaplenhlap\Baitaplenhlap\obj\Debug\netcoreapp3.1\Baitaplenhlap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Baitaplenhlap\Baitaplenhlap\obj\Debug\netcoreapp3.1\Baitaplenhlap.AssemblyInfoInputs.cache
+D:\Baitaplenhlap\Baitaplenhlap\obj\Debug\netcoreapp3.1\Baitaplenhlap.AssemblyInfo.cs
+D:\Baitaplenhlap\Baitaplenhlap\obj\Debug\netcoreapp3.1\Baitaplenhlap.csproj.CoreCompileInputs.cache
+D:\Baitaplenhlap\Baitaplenhlap\obj\Debug\netcoreapp3.1\Baitaplenhlap.dll
+D:\Baitaplenhlap\Baitaplenhlap\obj\Debug\netcoreapp3.1\Baitaplenhlap.pdb
+D:\Baitaplenhlap\Baitaplenhlap\obj\Debug\netcoreapp3.1\Baitaplenhlap.genruntimeconfig.cache
