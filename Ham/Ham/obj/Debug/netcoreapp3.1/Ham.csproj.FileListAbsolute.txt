@@ -1,0 +1,14 @@
+D:\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.exe
+D:\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.deps.json
+D:\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.runtimeconfig.json
+D:\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.runtimeconfig.dev.json
+D:\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.dll
+D:\Ham\Ham\bin\Debug\netcoreapp3.1\Ham.pdb
+D:\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.csproj.AssemblyReference.cache
+D:\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.AssemblyInfoInputs.cache
+D:\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.AssemblyInfo.cs
+D:\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.csproj.CoreCompileInputs.cache
+D:\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.dll
+D:\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.pdb
+D:\Ham\Ham\obj\Debug\netcoreapp3.1\Ham.genruntimeconfig.cache
