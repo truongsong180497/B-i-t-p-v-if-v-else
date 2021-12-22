@@ -1,0 +1,14 @@
+D:\Xulichuoi_string\Xulichuoi_string\bin\Debug\netcoreapp3.1\Xulichuoi_string.exe
+D:\Xulichuoi_string\Xulichuoi_string\bin\Debug\netcoreapp3.1\Xulichuoi_string.deps.json
+D:\Xulichuoi_string\Xulichuoi_string\bin\Debug\netcoreapp3.1\Xulichuoi_string.runtimeconfig.json
+D:\Xulichuoi_string\Xulichuoi_string\bin\Debug\netcoreapp3.1\Xulichuoi_string.runtimeconfig.dev.json
+D:\Xulichuoi_string\Xulichuoi_string\bin\Debug\netcoreapp3.1\Xulichuoi_string.dll
+D:\Xulichuoi_string\Xulichuoi_string\bin\Debug\netcoreapp3.1\Xulichuoi_string.pdb
+D:\Xulichuoi_string\Xulichuoi_string\obj\Debug\netcoreapp3.1\Xulichuoi_string.csproj.AssemblyReference.cache
+D:\Xulichuoi_string\Xulichuoi_string\obj\Debug\netcoreapp3.1\Xulichuoi_string.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xulichuoi_string\Xulichuoi_string\obj\Debug\netcoreapp3.1\Xulichuoi_string.AssemblyInfoInputs.cache
+D:\Xulichuoi_string\Xulichuoi_string\obj\Debug\netcoreapp3.1\Xulichuoi_string.AssemblyInfo.cs
+D:\Xulichuoi_string\Xulichuoi_string\obj\Debug\netcoreapp3.1\Xulichuoi_string.csproj.CoreCompileInputs.cache
+D:\Xulichuoi_string\Xulichuoi_string\obj\Debug\netcoreapp3.1\Xulichuoi_string.dll
+D:\Xulichuoi_string\Xulichuoi_string\obj\Debug\netcoreapp3.1\Xulichuoi_string.pdb
+D:\Xulichuoi_string\Xulichuoi_string\obj\Debug\netcoreapp3.1\Xulichuoi_string.genruntimeconfig.cache
