@@ -1,0 +1,14 @@
+D:\Quanlisinhvien\Quanlisinhvien\bin\Debug\netcoreapp3.1\Quanlisinhvien.exe
+D:\Quanlisinhvien\Quanlisinhvien\bin\Debug\netcoreapp3.1\Quanlisinhvien.deps.json
+D:\Quanlisinhvien\Quanlisinhvien\bin\Debug\netcoreapp3.1\Quanlisinhvien.runtimeconfig.json
+D:\Quanlisinhvien\Quanlisinhvien\bin\Debug\netcoreapp3.1\Quanlisinhvien.runtimeconfig.dev.json
+D:\Quanlisinhvien\Quanlisinhvien\bin\Debug\netcoreapp3.1\Quanlisinhvien.dll
+D:\Quanlisinhvien\Quanlisinhvien\bin\Debug\netcoreapp3.1\Quanlisinhvien.pdb
+D:\Quanlisinhvien\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.csproj.AssemblyReference.cache
+D:\Quanlisinhvien\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quanlisinhvien\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.AssemblyInfoInputs.cache
+D:\Quanlisinhvien\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.AssemblyInfo.cs
+D:\Quanlisinhvien\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.csproj.CoreCompileInputs.cache
+D:\Quanlisinhvien\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.dll
+D:\Quanlisinhvien\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.pdb
+D:\Quanlisinhvien\Quanlisinhvien\obj\Debug\netcoreapp3.1\Quanlisinhvien.genruntimeconfig.cache

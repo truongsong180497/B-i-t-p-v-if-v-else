@@ -1,0 +1,14 @@
+D:\Collecton\Collecton\bin\Debug\netcoreapp3.1\Collecton.exe
+D:\Collecton\Collecton\bin\Debug\netcoreapp3.1\Collecton.deps.json
+D:\Collecton\Collecton\bin\Debug\netcoreapp3.1\Collecton.runtimeconfig.json
+D:\Collecton\Collecton\bin\Debug\netcoreapp3.1\Collecton.runtimeconfig.dev.json
+D:\Collecton\Collecton\bin\Debug\netcoreapp3.1\Collecton.dll
+D:\Collecton\Collecton\bin\Debug\netcoreapp3.1\Collecton.pdb
+D:\Collecton\Collecton\obj\Debug\netcoreapp3.1\Collecton.csproj.AssemblyReference.cache
+D:\Collecton\Collecton\obj\Debug\netcoreapp3.1\Collecton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Collecton\Collecton\obj\Debug\netcoreapp3.1\Collecton.AssemblyInfoInputs.cache
+D:\Collecton\Collecton\obj\Debug\netcoreapp3.1\Collecton.AssemblyInfo.cs
+D:\Collecton\Collecton\obj\Debug\netcoreapp3.1\Collecton.csproj.CoreCompileInputs.cache
+D:\Collecton\Collecton\obj\Debug\netcoreapp3.1\Collecton.dll
+D:\Collecton\Collecton\obj\Debug\netcoreapp3.1\Collecton.pdb
+D:\Collecton\Collecton\obj\Debug\netcoreapp3.1\Collecton.genruntimeconfig.cache

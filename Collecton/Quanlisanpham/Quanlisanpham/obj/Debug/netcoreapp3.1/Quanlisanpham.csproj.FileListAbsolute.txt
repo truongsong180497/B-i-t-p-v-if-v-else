@@ -1,0 +1,14 @@
+D:\Quanlisanpham\Quanlisanpham\bin\Debug\netcoreapp3.1\Quanlisanpham.exe
+D:\Quanlisanpham\Quanlisanpham\bin\Debug\netcoreapp3.1\Quanlisanpham.deps.json
+D:\Quanlisanpham\Quanlisanpham\bin\Debug\netcoreapp3.1\Quanlisanpham.runtimeconfig.json
+D:\Quanlisanpham\Quanlisanpham\bin\Debug\netcoreapp3.1\Quanlisanpham.runtimeconfig.dev.json
+D:\Quanlisanpham\Quanlisanpham\bin\Debug\netcoreapp3.1\Quanlisanpham.dll
+D:\Quanlisanpham\Quanlisanpham\bin\Debug\netcoreapp3.1\Quanlisanpham.pdb
+D:\Quanlisanpham\Quanlisanpham\obj\Debug\netcoreapp3.1\Quanlisanpham.csproj.AssemblyReference.cache
+D:\Quanlisanpham\Quanlisanpham\obj\Debug\netcoreapp3.1\Quanlisanpham.GeneratedMSBuildEditorConfig.editorconfig
+D:\Quanlisanpham\Quanlisanpham\obj\Debug\netcoreapp3.1\Quanlisanpham.AssemblyInfoInputs.cache
+D:\Quanlisanpham\Quanlisanpham\obj\Debug\netcoreapp3.1\Quanlisanpham.AssemblyInfo.cs
+D:\Quanlisanpham\Quanlisanpham\obj\Debug\netcoreapp3.1\Quanlisanpham.csproj.CoreCompileInputs.cache
+D:\Quanlisanpham\Quanlisanpham\obj\Debug\netcoreapp3.1\Quanlisanpham.dll
+D:\Quanlisanpham\Quanlisanpham\obj\Debug\netcoreapp3.1\Quanlisanpham.pdb
+D:\Quanlisanpham\Quanlisanpham\obj\Debug\netcoreapp3.1\Quanlisanpham.genruntimeconfig.cache
